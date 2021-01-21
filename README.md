@@ -1,6 +1,6 @@
 # Kacper Budny
 
-Hi! My name is Kacper and I'm an aspiring Web Developer who loves learning new stuff. There are always some fascinating new technologies that I want to learn, but I know I have to focus on getting better at what I already know to be succesfull. I also have a head full of ideas for new projects that I'm so excited about and I hope I will be able to work on some of them in the nearest future!
+Hi! My name is Kacper and I'm an aspiring Web Developer who loves learning new stuff. There are always some fascinating new technologies that I want to learn, but I know I have to focus on getting better at what I already know to be succesful. I also have a head full of ideas for new projects that I'm so excited about and I hope I will be able to work on some of them in the nearest future!
 
 Privately, I'm also a musician. Well, maybe not literally, but I love making music and playing instruments and have big dreams! I think it can actually have an impact on the types of projects I create, as they usually refer to music in one way or another. Oops.
 
