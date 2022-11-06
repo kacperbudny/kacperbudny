@@ -29,7 +29,7 @@ Privately, I'm also a musician. Well, maybe not literally, but I love making mus
 
 ## Currently working on
 
-[NotesApp - a Google Keep clone built with React](https://github.com/kacperbudny/NotesApp-WIP): about 55% finished<br/>
+[NotesApp - a Google Keep clone built with React](https://github.com/kacperbudny/NotesApp-WIP): about 60% finished<br/>
 [PracticeTime! - a desktop metronome app](https://github.com/kacperbudny/PracticeTime): version 1.0.1 released, working on additional features<br/>
 [GameWeb - a team project of a social media website for gamers](https://github.com/kacperbudny/GameWeb): main features finished, mainly focused on refactoring now
 
