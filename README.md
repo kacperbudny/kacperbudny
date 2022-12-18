@@ -17,7 +17,6 @@ Privately, I'm also a musician. Well, maybe not literally, but I love making mus
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="40px" height="40px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="npm" width="40px" height="40px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="40px" height="40px"></a>
-<a href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="40px" height="40px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
@@ -29,7 +28,7 @@ Privately, I'm also a musician. Well, maybe not literally, but I love making mus
 
 ## Currently working on
 
-[NotesApp - a Google Keep clone built with React](https://github.com/kacperbudny/NotesApp-WIP): about 60% finished<br/>
+[NotesApp - a Google Keep clone built with React](https://github.com/kacperbudny/NotesApp-WIP): about 70% finished<br/>
 [PracticeTime! - a desktop metronome app](https://github.com/kacperbudny/PracticeTime): version 1.0.1 released, working on additional features<br/>
 [GameWeb - a team project of a social media website for gamers](https://github.com/kacperbudny/GameWeb): main features finished, mainly focused on refactoring now
 
